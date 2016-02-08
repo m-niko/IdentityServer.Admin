@@ -1,0 +1,2 @@
+# IdentityServer.Admin
+Admin entityframework
